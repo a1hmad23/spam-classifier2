@@ -1,0 +1,5 @@
+data/raw/
+my_enc/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
